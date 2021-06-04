@@ -1,6 +1,1 @@
-git init
-git remote add origin https://github.com/binikiya/alx-pre_course.git
-git add README.md
-git commit -m "commit"
-git branch -M main
-git push -u origin main
+git remote update
