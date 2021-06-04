@@ -1,1 +1,5 @@
-git remote update
+git pull upstream main
+git add 0x02-git
+git commit -m "commit"
+git push origin main
+pull request
